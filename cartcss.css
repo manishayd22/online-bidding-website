@@ -1,0 +1,75 @@
+#feedback{
+	
+	margin-top:150px;
+}
+
+
+
+
+
+
+.breadcrumb{
+	margin-top:80px;
+	
+	height:80px;
+}
+
+
+.heading li{
+	a:center;
+	
+}
+
+.icon-size{
+ 
+font-size:10em;
+ 
+}
+
+.icon-size1{
+ 
+font-size:4em;
+ 
+}
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  background-color: gray;
+  
+}
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 97%;
+  margin: 8px;
+  margin-right:80px;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+  
+}
+
+.quantity {
+	float:left;
+	width:30px;
+}
+
+
+
+
+.btn-primary {
+	float:right;
+	margin-left:30px;
+	width:80px;
+}
+.price {
+	width:80px;
+}
+
+.itemName {
+	width:400px;
+	
+}
+
+.header span{
+	padding-right:150px;
+}
